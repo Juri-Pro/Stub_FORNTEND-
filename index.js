@@ -22,6 +22,7 @@ const methodSchema = new mongoose.Schema({
   name: String,
  
 });
+//sravani
 
 const obj = {
   name :'post',
